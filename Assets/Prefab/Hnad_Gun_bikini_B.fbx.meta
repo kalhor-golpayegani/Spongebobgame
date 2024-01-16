@@ -1,0 +1,930 @@
+fileFormatVersion: 2
+guid: e9249fc2f4d4c6d4eade4e568a4ab31d
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 4146916867283985444
+    second: Sphere079|Body|Take 001|BaseLayer
+  - first:
+      74: -6554570497731252361
+    second: Sphere079|Bored fishAction
+  - first:
+      74: -2378613984788932120
+    second: Sphere079|Bored fishAction.001
+  - first:
+      74: -6458733175096814835
+    second: Sphere079|Bored fishAction.002
+  - first:
+      74: -6501274277991057791
+    second: Sphere079|Bored fishAction.003
+  - first:
+      74: 6732785959384243325
+    second: Sphere079|Bored fishAction.004
+  - first:
+      74: -7275253369273704775
+    second: Sphere079|Bored fishAction.005
+  - first:
+      74: 5294451154033306861
+    second: Sphere079|Bored fishAction.006
+  - first:
+      74: -7333887571510187710
+    second: Sphere079|Bored fishAction.007
+  - first:
+      74: 2395743528271755016
+    second: Sphere079|Camera.001Action.002
+  - first:
+      74: -6629985598405245722
+    second: Sphere079|Cube.004Action
+  - first:
+      74: -2032708718903905369
+    second: Sphere079|Cylinder001Action
+  - first:
+      74: 2881709197087939886
+    second: Sphere079|Cylinder023.001Action
+  - first:
+      74: 7008730835266274157
+    second: Sphere079|Cylinder023.002Action
+  - first:
+      74: 3075835029795393786
+    second: Sphere079|Fleur_01_Plane.000Action
+  - first:
+      74: -7267930954227015324
+    second: Sphere079|Fleur_01_Plane.001Action
+  - first:
+      74: -8055824584515021372
+    second: Sphere079|Fleur_01_Plane.003Action
+  - first:
+      74: 7581026678631869804
+    second: Sphere079|Fleur_01_Plane.003Action.001
+  - first:
+      74: -6772851490449298724
+    second: Sphere079|Fleur_01_Plane.005Action
+  - first:
+      74: -4700280309026400316
+    second: Sphere079|Fleur_01_Plane.006Action
+  - first:
+      74: -5936056954427064696
+    second: Sphere079|Fleur_01_Plane.007Action
+  - first:
+      74: 670289703546823676
+    second: Sphere079|Fleur_01_Plane.014Action
+  - first:
+      74: 7647601995326633736
+    second: Sphere079|Fleur_01_Plane.015Action
+  - first:
+      74: -6475806879305973684
+    second: Sphere079|Head|Take 001|BaseLayer
+  - first:
+      74: 4757087360782356725
+    second: Sphere079|houseSandyAction.001
+  - first:
+      74: -5396777717205560541
+    second: Sphere079|IcosphereAction.001
+  - first:
+      74: -4794938209683761175
+    second: Sphere079|Left_arm|Take 001|BaseLayer
+  - first:
+      74: 5141344404320810685
+    second: Sphere079|Left_shoulder|Take 001|BaseLayer
+  - first:
+      74: -5344674514887290411
+    second: Sphere079|Leg001|Take 001|BaseLayer
+  - first:
+      74: 3426277157180373910
+    second: Sphere079|Leg002|Take 001|BaseLayer
+  - first:
+      74: 2851043896551263184
+    second: Sphere079|Leg003|Take 001|BaseLayer
+  - first:
+      74: 4933934284423862165
+    second: Sphere079|Leg004|Take 001|BaseLayer
+  - first:
+      74: 3581263742236459637
+    second: Sphere079|Neck|Take 001|BaseLayer
+  - first:
+      74: -4858901868029593955
+    second: Sphere079|Nose|Take 001|BaseLayer
+  - first:
+      74: 528575766211492537
+    second: Sphere079|Object008.1Action
+  - first:
+      74: 7511228808945616597
+    second: Sphere079|Plane.002Action
+  - first:
+      74: -5858723984104706112
+    second: Sphere079|Plane.003Action
+  - first:
+      74: -6239272986384737185
+    second: Sphere079|Plane023.001Action.002
+  - first:
+      74: -2245767301266857013
+    second: Sphere079|Plane023.002Action
+  - first:
+      74: 7293332591462342669
+    second: Sphere079|Plane051Action
+  - first:
+      74: 5910535714435758528
+    second: Sphere079|Right_arm|Take 001|BaseLayer
+  - first:
+      74: -6718408535670981998
+    second: Sphere079|Right_shoulder|Take 001|BaseLayer
+  - first:
+      74: -8843979154997158098
+    second: Sphere079|RockAction
+  - first:
+      74: -679373572887330776
+    second: Sphere079|rockHuge.001Action
+  - first:
+      74: -5775652413175350125
+    second: Sphere079|rockSmall1.002Action
+  - first:
+      74: -8021522270224093530
+    second: Sphere079|rockSmall1.003Action
+  - first:
+      74: -4152021963335764134
+    second: Sphere079|rockSmall1.005Action.001
+  - first:
+      74: -5734314387457272406
+    second: Sphere079|rockSmall1.005Action.002
+  - first:
+      74: 940989634489330300
+    second: Sphere079|rockSmall1.006Action
+  - first:
+      74: 8071249853160605376
+    second: Sphere079|rockSmall1.006Action.001
+  - first:
+      74: 6223529897509019807
+    second: Sphere079|rockSmall1.006Action.002
+  - first:
+      74: 169782098064288670
+    second: Sphere079|rockSmall1.007Action
+  - first:
+      74: 86093238965485044
+    second: Sphere079|rockSmall1.007Action.001
+  - first:
+      74: -2940605324061341537
+    second: Sphere079|rockSmall1.011Action
+  - first:
+      74: -7456311750173823171
+    second: Sphere079|rockSmall1.011Action.001
+  - first:
+      74: 4346703511621909485
+    second: Sphere079|rockSmall1.011Action.002
+  - first:
+      74: -808141379882503412
+    second: Sphere079|rockSmall1Action
+  - first:
+      74: -3622241435644160878
+    second: Sphere079|rockSmall1Action.001
+  - first:
+      74: -7531039151706284711
+    second: Sphere079|rockSmall2.004Action
+  - first:
+      74: 7445912740818252200
+    second: Sphere079|rockSmall2.007Action
+  - first:
+      74: -1027380216400159103
+    second: Sphere079|rockSmall2.015Action
+  - first:
+      74: 8668883377828637811
+    second: Sphere079|rockSmall2.015Action.001
+  - first:
+      74: -4085489337451289574
+    second: Sphere079|Sphere.006Action
+  - first:
+      74: -4452673670033794487
+    second: Sphere079|Sphere.007Action
+  - first:
+      74: 4807793582218306150
+    second: Sphere079|Sphere065.002Action
+  - first:
+      74: -1825674689041240958
+    second: Sphere079|Sphere065.003Action
+  - first:
+      74: -3272304404812271074
+    second: Sphere079|Sphere065.004Action
+  - first:
+      74: 7939916687131059985
+    second: Sphere079|Sphere065.005Action
+  - first:
+      74: 7706903318833605135
+    second: Sphere079|Sphere079Action
+  - first:
+      74: 6561989614982710417
+    second: Plane051|Body|Take 001|BaseLayer
+  - first:
+      74: -1084734268917695793
+    second: Plane051|Bored fishAction
+  - first:
+      74: -5221225006583170609
+    second: Plane051|Bored fishAction.001
+  - first:
+      74: -6385526487585456606
+    second: Plane051|Bored fishAction.002
+  - first:
+      74: -1463325126548929318
+    second: Plane051|Bored fishAction.003
+  - first:
+      74: -6196636708406658526
+    second: Plane051|Bored fishAction.004
+  - first:
+      74: -3692329563760539010
+    second: Plane051|Bored fishAction.005
+  - first:
+      74: 2381075949601313247
+    second: Plane051|Bored fishAction.006
+  - first:
+      74: 9110532294198467095
+    second: Plane051|Bored fishAction.007
+  - first:
+      74: 5151696535364756558
+    second: Plane051|Camera.001Action.002
+  - first:
+      74: 2528173600349732428
+    second: Plane051|Cube.004Action
+  - first:
+      74: -4310221837032944314
+    second: Plane051|Cylinder001Action
+  - first:
+      74: 963312339332710647
+    second: Plane051|Cylinder023.001Action
+  - first:
+      74: 1254401620125393132
+    second: Plane051|Cylinder023.002Action
+  - first:
+      74: 1863401926362790338
+    second: Plane051|Fleur_01_Plane.000Action
+  - first:
+      74: 2836499082624271315
+    second: Plane051|Fleur_01_Plane.001Action
+  - first:
+      74: -9083866305706119684
+    second: Plane051|Fleur_01_Plane.003Action
+  - first:
+      74: 2356847006081453034
+    second: Plane051|Fleur_01_Plane.003Action.001
+  - first:
+      74: -4561829181070474101
+    second: Plane051|Fleur_01_Plane.005Action
+  - first:
+      74: -9171957799881403952
+    second: Plane051|Fleur_01_Plane.006Action
+  - first:
+      74: -3933352746923910470
+    second: Plane051|Fleur_01_Plane.007Action
+  - first:
+      74: 3597951328410233683
+    second: Plane051|Fleur_01_Plane.014Action
+  - first:
+      74: -645517067800025655
+    second: Plane051|Fleur_01_Plane.015Action
+  - first:
+      74: 1040873749254607135
+    second: Plane051|Head|Take 001|BaseLayer
+  - first:
+      74: -3750281822445648821
+    second: Plane051|houseSandyAction.001
+  - first:
+      74: -3126709870054298628
+    second: Plane051|IcosphereAction.001
+  - first:
+      74: 7341413045947431331
+    second: Plane051|Left_arm|Take 001|BaseLayer
+  - first:
+      74: 172796263329497916
+    second: Plane051|Left_shoulder|Take 001|BaseLayer
+  - first:
+      74: 8819924371511862512
+    second: Plane051|Leg001|Take 001|BaseLayer
+  - first:
+      74: -2488592574775711049
+    second: Plane051|Leg002|Take 001|BaseLayer
+  - first:
+      74: 1215371376811263869
+    second: Plane051|Leg003|Take 001|BaseLayer
+  - first:
+      74: -875693141543824224
+    second: Plane051|Leg004|Take 001|BaseLayer
+  - first:
+      74: -7932000969158537160
+    second: Plane051|Neck|Take 001|BaseLayer
+  - first:
+      74: 5540486436934421584
+    second: Plane051|Nose|Take 001|BaseLayer
+  - first:
+      74: 2652397129858232235
+    second: Plane051|Object008.1Action
+  - first:
+      74: 3921043135138885981
+    second: Plane051|Plane.002Action
+  - first:
+      74: 1551521841847163480
+    second: Plane051|Plane.003Action
+  - first:
+      74: -1697711954519896748
+    second: Plane051|Plane023.001Action.002
+  - first:
+      74: -8315694915653955573
+    second: Plane051|Plane023.002Action
+  - first:
+      74: -4821577680207717521
+    second: Plane051|Plane051Action
+  - first:
+      74: 3210502590235691476
+    second: Plane051|Right_arm|Take 001|BaseLayer
+  - first:
+      74: -5200191106090738148
+    second: Plane051|Right_shoulder|Take 001|BaseLayer
+  - first:
+      74: -6575861906031421651
+    second: Plane051|RockAction
+  - first:
+      74: -5351754530758901353
+    second: Plane051|rockHuge.001Action
+  - first:
+      74: 563053786959857109
+    second: Plane051|rockSmall1.002Action
+  - first:
+      74: 2278471543334971191
+    second: Plane051|rockSmall1.003Action
+  - first:
+      74: -8444479670961548150
+    second: Plane051|rockSmall1.005Action.001
+  - first:
+      74: 6223270200161842251
+    second: Plane051|rockSmall1.005Action.002
+  - first:
+      74: -5778522932470946678
+    second: Plane051|rockSmall1.006Action
+  - first:
+      74: 2428208148154981675
+    second: Plane051|rockSmall1.006Action.001
+  - first:
+      74: 2771441722760026114
+    second: Plane051|rockSmall1.006Action.002
+  - first:
+      74: 4182032510316370699
+    second: Plane051|rockSmall1.007Action
+  - first:
+      74: 3599406108317903738
+    second: Plane051|rockSmall1.007Action.001
+  - first:
+      74: -5340023266458276623
+    second: Plane051|rockSmall1.011Action
+  - first:
+      74: -2718483463476884249
+    second: Plane051|rockSmall1.011Action.001
+  - first:
+      74: 6774092182271077429
+    second: Plane051|rockSmall1.011Action.002
+  - first:
+      74: -2139808254657984629
+    second: Plane051|rockSmall1Action
+  - first:
+      74: -7875904272113813114
+    second: Plane051|rockSmall1Action.001
+  - first:
+      74: 2730222925947195902
+    second: Plane051|rockSmall2.004Action
+  - first:
+      74: -3916733645613463995
+    second: Plane051|rockSmall2.007Action
+  - first:
+      74: -2794410959901237204
+    second: Plane051|rockSmall2.015Action
+  - first:
+      74: -6917076393843768015
+    second: Plane051|rockSmall2.015Action.001
+  - first:
+      74: 593471493327544691
+    second: Plane051|Sphere.006Action
+  - first:
+      74: 1194377668935525928
+    second: Plane051|Sphere.007Action
+  - first:
+      74: -8144493029034731438
+    second: Plane051|Sphere065.002Action
+  - first:
+      74: 4314572537779458875
+    second: Plane051|Sphere065.003Action
+  - first:
+      74: -5391355572585955495
+    second: Plane051|Sphere065.004Action
+  - first:
+      74: 2505359131964461309
+    second: Plane051|Sphere065.005Action
+  - first:
+      74: 630118364024956309
+    second: Plane051|Sphere079Action
+  - first:
+      74: 1856500794723662295
+    second: Bob_Mesh.001|Body|Take 001|BaseLayer
+  - first:
+      74: 2393896833571328655
+    second: Bob_Mesh.001|Bored fishAction
+  - first:
+      74: -7658295015360155971
+    second: Bob_Mesh.001|Bored fishAction.001
+  - first:
+      74: -6061021422532448812
+    second: Bob_Mesh.001|Bored fishAction.002
+  - first:
+      74: -5456114209269973003
+    second: Bob_Mesh.001|Bored fishAction.003
+  - first:
+      74: 6069418270219434667
+    second: Bob_Mesh.001|Bored fishAction.004
+  - first:
+      74: 6812131662896722426
+    second: Bob_Mesh.001|Bored fishAction.005
+  - first:
+      74: -4602544232846747184
+    second: Bob_Mesh.001|Bored fishAction.006
+  - first:
+      74: 551202007968665432
+    second: Bob_Mesh.001|Bored fishAction.007
+  - first:
+      74: -539807691857209292
+    second: Bob_Mesh.001|Camera.001Action.002
+  - first:
+      74: -3531862198797857417
+    second: Bob_Mesh.001|Cube.004Action
+  - first:
+      74: -652395401473261302
+    second: Bob_Mesh.001|Cylinder001Action
+  - first:
+      74: -6934300846992109564
+    second: Bob_Mesh.001|Cylinder023.001Action
+  - first:
+      74: 6238519167630635683
+    second: Bob_Mesh.001|Cylinder023.002Action
+  - first:
+      74: 2474728948834848760
+    second: Bob_Mesh.001|Fleur_01_Plane.000Action
+  - first:
+      74: 2451299970418332409
+    second: Bob_Mesh.001|Fleur_01_Plane.001Action
+  - first:
+      74: 792129284729992472
+    second: Bob_Mesh.001|Fleur_01_Plane.003Action
+  - first:
+      74: -3613956339599081622
+    second: Bob_Mesh.001|Fleur_01_Plane.003Action.001
+  - first:
+      74: 2552867296215997584
+    second: Bob_Mesh.001|Fleur_01_Plane.005Action
+  - first:
+      74: 6604789819775150048
+    second: Bob_Mesh.001|Fleur_01_Plane.006Action
+  - first:
+      74: -376142593980447116
+    second: Bob_Mesh.001|Fleur_01_Plane.007Action
+  - first:
+      74: 5073353772134911785
+    second: Bob_Mesh.001|Fleur_01_Plane.014Action
+  - first:
+      74: 3243618278832587914
+    second: Bob_Mesh.001|Fleur_01_Plane.015Action
+  - first:
+      74: 7880056305667595161
+    second: Bob_Mesh.001|Head|Take 001|BaseLayer
+  - first:
+      74: -4783948020579971787
+    second: Bob_Mesh.001|houseSandyAction.001
+  - first:
+      74: 5583894170111197045
+    second: Bob_Mesh.001|IcosphereAction.001
+  - first:
+      74: 436545461530642553
+    second: Bob_Mesh.001|Left_arm|Take 001|BaseLayer
+  - first:
+      74: 1318805273149803032
+    second: Bob_Mesh.001|Left_shoulder|Take 001|BaseLayer
+  - first:
+      74: -6249635125045733724
+    second: Bob_Mesh.001|Leg001|Take 001|BaseLayer
+  - first:
+      74: 7204839157971281349
+    second: Bob_Mesh.001|Leg002|Take 001|BaseLayer
+  - first:
+      74: -577376786890262878
+    second: Bob_Mesh.001|Leg003|Take 001|BaseLayer
+  - first:
+      74: -7259404591110739859
+    second: Bob_Mesh.001|Leg004|Take 001|BaseLayer
+  - first:
+      74: 8788677035261984206
+    second: Bob_Mesh.001|Neck|Take 001|BaseLayer
+  - first:
+      74: 4218628089415127142
+    second: Bob_Mesh.001|Nose|Take 001|BaseLayer
+  - first:
+      74: 2056161114089849754
+    second: Bob_Mesh.001|Object008.1Action
+  - first:
+      74: -170667071718403868
+    second: Bob_Mesh.001|Plane.002Action
+  - first:
+      74: 7442875753131926866
+    second: Bob_Mesh.001|Plane.003Action
+  - first:
+      74: -683816182225350991
+    second: Bob_Mesh.001|Plane023.001Action.002
+  - first:
+      74: -820722887047470210
+    second: Bob_Mesh.001|Plane023.002Action
+  - first:
+      74: -6273164051784983068
+    second: Bob_Mesh.001|Plane051Action
+  - first:
+      74: -1634587458295114561
+    second: Bob_Mesh.001|Right_arm|Take 001|BaseLayer
+  - first:
+      74: 8655325505623433454
+    second: Bob_Mesh.001|Right_shoulder|Take 001|BaseLayer
+  - first:
+      74: 6059530149698171032
+    second: Bob_Mesh.001|RockAction
+  - first:
+      74: 4500261065193484950
+    second: Bob_Mesh.001|rockHuge.001Action
+  - first:
+      74: -6612340192550043140
+    second: Bob_Mesh.001|rockSmall1.002Action
+  - first:
+      74: 3182523113865311700
+    second: Bob_Mesh.001|rockSmall1.003Action
+  - first:
+      74: -6008307342540412680
+    second: Bob_Mesh.001|rockSmall1.005Action.001
+  - first:
+      74: -7479132759319870397
+    second: Bob_Mesh.001|rockSmall1.005Action.002
+  - first:
+      74: -2278154835333970587
+    second: Bob_Mesh.001|rockSmall1.006Action
+  - first:
+      74: -6045852345703840449
+    second: Bob_Mesh.001|rockSmall1.006Action.001
+  - first:
+      74: 1273056173714375504
+    second: Bob_Mesh.001|rockSmall1.006Action.002
+  - first:
+      74: 864284126096811045
+    second: Bob_Mesh.001|rockSmall1.007Action
+  - first:
+      74: -3735402775088778866
+    second: Bob_Mesh.001|rockSmall1.007Action.001
+  - first:
+      74: 2665698564095474757
+    second: Bob_Mesh.001|rockSmall1.011Action
+  - first:
+      74: 146803832268976265
+    second: Bob_Mesh.001|rockSmall1.011Action.001
+  - first:
+      74: -8964051263782450210
+    second: Bob_Mesh.001|rockSmall1.011Action.002
+  - first:
+      74: 7969887344144074818
+    second: Bob_Mesh.001|rockSmall1Action
+  - first:
+      74: 1319061612570102865
+    second: Bob_Mesh.001|rockSmall1Action.001
+  - first:
+      74: 1465364391278676362
+    second: Bob_Mesh.001|rockSmall2.004Action
+  - first:
+      74: -273283682138716584
+    second: Bob_Mesh.001|rockSmall2.007Action
+  - first:
+      74: -3493613716366678910
+    second: Bob_Mesh.001|rockSmall2.015Action
+  - first:
+      74: 6890168604479545428
+    second: Bob_Mesh.001|rockSmall2.015Action.001
+  - first:
+      74: -133876490505906824
+    second: Bob_Mesh.001|Sphere.006Action
+  - first:
+      74: 4412134759971323100
+    second: Bob_Mesh.001|Sphere.007Action
+  - first:
+      74: -2442800446170503724
+    second: Bob_Mesh.001|Sphere065.002Action
+  - first:
+      74: 7284887458381892581
+    second: Bob_Mesh.001|Sphere065.003Action
+  - first:
+      74: -7320624138523685284
+    second: Bob_Mesh.001|Sphere065.004Action
+  - first:
+      74: -5372335363096425082
+    second: Bob_Mesh.001|Sphere065.005Action
+  - first:
+      74: 6548523836616365650
+    second: Bob_Mesh.001|Sphere079Action
+  - first:
+      74: 6657784163906525175
+    second: Bob_Mesh.003|Body|Take 001|BaseLayer
+  - first:
+      74: 4432257552579598170
+    second: Bob_Mesh.003|Bored fishAction
+  - first:
+      74: 6425506606004729473
+    second: Bob_Mesh.003|Bored fishAction.001
+  - first:
+      74: -3108319192070724726
+    second: Bob_Mesh.003|Bored fishAction.002
+  - first:
+      74: -5916241875228739869
+    second: Bob_Mesh.003|Bored fishAction.003
+  - first:
+      74: -734068291252632756
+    second: Bob_Mesh.003|Bored fishAction.004
+  - first:
+      74: 7757673359027867514
+    second: Bob_Mesh.003|Bored fishAction.005
+  - first:
+      74: -6409280851937324972
+    second: Bob_Mesh.003|Bored fishAction.006
+  - first:
+      74: 864022268792119189
+    second: Bob_Mesh.003|Bored fishAction.007
+  - first:
+      74: 1863029315737334127
+    second: Bob_Mesh.003|Camera.001Action.002
+  - first:
+      74: -1515045854872706304
+    second: Bob_Mesh.003|Cube.004Action
+  - first:
+      74: -5553559884491393247
+    second: Bob_Mesh.003|Cylinder001Action
+  - first:
+      74: 4642811801156484330
+    second: Bob_Mesh.003|Cylinder023.001Action
+  - first:
+      74: 601096201521311769
+    second: Bob_Mesh.003|Cylinder023.002Action
+  - first:
+      74: -2132853163858403103
+    second: Bob_Mesh.003|Fleur_01_Plane.000Action
+  - first:
+      74: -5131707206519673393
+    second: Bob_Mesh.003|Fleur_01_Plane.001Action
+  - first:
+      74: 3996668474902569971
+    second: Bob_Mesh.003|Fleur_01_Plane.003Action
+  - first:
+      74: 3183565219734945435
+    second: Bob_Mesh.003|Fleur_01_Plane.003Action.001
+  - first:
+      74: 2063654465463672285
+    second: Bob_Mesh.003|Fleur_01_Plane.005Action
+  - first:
+      74: -6572804815746900476
+    second: Bob_Mesh.003|Fleur_01_Plane.006Action
+  - first:
+      74: 1064860187940570063
+    second: Bob_Mesh.003|Fleur_01_Plane.007Action
+  - first:
+      74: -626503605764600371
+    second: Bob_Mesh.003|Fleur_01_Plane.014Action
+  - first:
+      74: -3928924310464450570
+    second: Bob_Mesh.003|Fleur_01_Plane.015Action
+  - first:
+      74: -244151086310812230
+    second: Bob_Mesh.003|Head|Take 001|BaseLayer
+  - first:
+      74: -8752982232496019143
+    second: Bob_Mesh.003|houseSandyAction.001
+  - first:
+      74: -6617948218190716355
+    second: Bob_Mesh.003|IcosphereAction.001
+  - first:
+      74: 2590278733848458777
+    second: Bob_Mesh.003|Left_arm|Take 001|BaseLayer
+  - first:
+      74: -2295173838968773389
+    second: Bob_Mesh.003|Left_shoulder|Take 001|BaseLayer
+  - first:
+      74: 3762958435312642880
+    second: Bob_Mesh.003|Leg001|Take 001|BaseLayer
+  - first:
+      74: -3522384378819158753
+    second: Bob_Mesh.003|Leg002|Take 001|BaseLayer
+  - first:
+      74: -3284127776399776214
+    second: Bob_Mesh.003|Leg003|Take 001|BaseLayer
+  - first:
+      74: 6018459622055741631
+    second: Bob_Mesh.003|Leg004|Take 001|BaseLayer
+  - first:
+      74: -7016731530023103110
+    second: Bob_Mesh.003|Neck|Take 001|BaseLayer
+  - first:
+      74: 1147451660589757328
+    second: Bob_Mesh.003|Nose|Take 001|BaseLayer
+  - first:
+      74: -5801321226964432972
+    second: Bob_Mesh.003|Object008.1Action
+  - first:
+      74: -7025777295449445242
+    second: Bob_Mesh.003|Plane.002Action
+  - first:
+      74: -3261991327200085205
+    second: Bob_Mesh.003|Plane.003Action
+  - first:
+      74: -6877041964947382143
+    second: Bob_Mesh.003|Plane023.001Action.002
+  - first:
+      74: -4310980749252078379
+    second: Bob_Mesh.003|Plane023.002Action
+  - first:
+      74: -3713977597059116860
+    second: Bob_Mesh.003|Plane051Action
+  - first:
+      74: 5528508109144576298
+    second: Bob_Mesh.003|Right_arm|Take 001|BaseLayer
+  - first:
+      74: 5489424251028705805
+    second: Bob_Mesh.003|Right_shoulder|Take 001|BaseLayer
+  - first:
+      74: -3402166906193379855
+    second: Bob_Mesh.003|RockAction
+  - first:
+      74: 8591810998366471219
+    second: Bob_Mesh.003|rockHuge.001Action
+  - first:
+      74: -222959777797499294
+    second: Bob_Mesh.003|rockSmall1.002Action
+  - first:
+      74: 8853123455617485920
+    second: Bob_Mesh.003|rockSmall1.003Action
+  - first:
+      74: -2131206173138034343
+    second: Bob_Mesh.003|rockSmall1.005Action.001
+  - first:
+      74: 6673700833518493061
+    second: Bob_Mesh.003|rockSmall1.005Action.002
+  - first:
+      74: -4971991991874347529
+    second: Bob_Mesh.003|rockSmall1.006Action
+  - first:
+      74: 4610523629869922625
+    second: Bob_Mesh.003|rockSmall1.006Action.001
+  - first:
+      74: -7335388617334155225
+    second: Bob_Mesh.003|rockSmall1.006Action.002
+  - first:
+      74: -610742804640440023
+    second: Bob_Mesh.003|rockSmall1.007Action
+  - first:
+      74: -7076432968056479610
+    second: Bob_Mesh.003|rockSmall1.007Action.001
+  - first:
+      74: -4045935369029610798
+    second: Bob_Mesh.003|rockSmall1.011Action
+  - first:
+      74: 9168768657533056431
+    second: Bob_Mesh.003|rockSmall1.011Action.001
+  - first:
+      74: -7177249625538439935
+    second: Bob_Mesh.003|rockSmall1.011Action.002
+  - first:
+      74: 8916677124859501376
+    second: Bob_Mesh.003|rockSmall1Action
+  - first:
+      74: -869516674949028146
+    second: Bob_Mesh.003|rockSmall1Action.001
+  - first:
+      74: -841462274521728602
+    second: Bob_Mesh.003|rockSmall2.004Action
+  - first:
+      74: 6472685603015871
+    second: Bob_Mesh.003|rockSmall2.007Action
+  - first:
+      74: -4579953538915855159
+    second: Bob_Mesh.003|rockSmall2.015Action
+  - first:
+      74: 8577751372271399059
+    second: Bob_Mesh.003|rockSmall2.015Action.001
+  - first:
+      74: 857941847911838296
+    second: Bob_Mesh.003|Sphere.006Action
+  - first:
+      74: -797108099154186104
+    second: Bob_Mesh.003|Sphere.007Action
+  - first:
+      74: -7568412120184335358
+    second: Bob_Mesh.003|Sphere065.002Action
+  - first:
+      74: -591828947776330676
+    second: Bob_Mesh.003|Sphere065.003Action
+  - first:
+      74: 1433152389271067629
+    second: Bob_Mesh.003|Sphere065.004Action
+  - first:
+      74: -5068683288422338225
+    second: Bob_Mesh.003|Sphere065.005Action
+  - first:
+      74: -5928915432503327526
+    second: Bob_Mesh.003|Sphere079Action
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
